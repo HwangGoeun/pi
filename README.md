@@ -1,2 +1,1 @@
-# pi
-pi pi pi . pi . pi pi pi pi
+파이썬 터틀을 이용해 원주율 구하는 프로그램
